@@ -1,6 +1,6 @@
 Package: genpwr
 Title: Power Calculations Under Genetic Model Misspecification
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(person("Camille", "Moore", email = "moorec@njhealth.org", 
     role = c("aut", "cre")), person("Sean", "Jacobson", email = "jacobsons@njhealth.org",
     role = "aut"))
@@ -28,9 +28,9 @@ RoxygenNote: 6.1.1
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-04-03 17:10:19 UTC; Sean
+Packaged: 2019-09-17 19:12:06 UTC; jacobsons
 Author: Camille Moore [aut, cre],
   Sean Jacobson [aut]
 Maintainer: Camille Moore <moorec@njhealth.org>
 Repository: CRAN
-Date/Publication: 2019-04-04 17:40:03 UTC
+Date/Publication: 2019-09-17 19:40:02 UTC
