@@ -1,6 +1,6 @@
 Package: genpwr
 Title: Power Calculations Under Genetic Model Misspecification
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: c(person("Camille", "Moore", email = "moorec@njhealth.org", 
     role = c("aut", "cre")), person("Sean", "Jacobson", email = "jacobsons@njhealth.org",
     role = "aut"))
@@ -23,13 +23,13 @@ License: GPL-3
 Imports: ggplot2, nleqslv, MASS, stats, utils
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-04-07 16:05:17 UTC; jacobsons
+Packaged: 2021-03-20 14:23:59 UTC; jacobsons
 Author: Camille Moore [aut, cre],
   Sean Jacobson [aut]
 Maintainer: Camille Moore <moorec@njhealth.org>
 Repository: CRAN
-Date/Publication: 2020-04-07 17:30:02 UTC
+Date/Publication: 2021-03-22 20:20:02 UTC
